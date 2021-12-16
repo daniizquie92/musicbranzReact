@@ -1,0 +1,13 @@
+table {
+    border: 1px solid black;
+    margin-top: 20px;
+}
+
+th, td {
+    border:1px solid whitesmoke;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+}
